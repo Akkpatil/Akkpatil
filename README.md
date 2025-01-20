@@ -22,7 +22,8 @@ I am proficient in creating diverse academic projects, including mobile applicat
 - **Web Development:** HTML, CSS, JavaScript, Node.js
 - **Mobile App Development:** Android (Kotlin/Java)
 - **Game Development:** Unity (AR/VR)
-- **Data Analytics:** SQL
+- **Data Analytics:** Python
+- **SQL**
 
 ---
 
