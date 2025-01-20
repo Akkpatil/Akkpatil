@@ -1,4 +1,3 @@
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 # 👋 Hello, I'm Akshay Patil!
 
 Welcome to my profile! I am an enthusiastic engineering student currently pursuing a **MBA + B.Tech in Computer Engineering** at SVKM’s NMIMS Mukesh Patel School of Technology Management & Engineering. I have a passion for developing innovative solutions and exploring new technologies.
