@@ -1,12 +1,12 @@
 # 👋 Hello, I'm Akshay Patil!
 
-Welcome to my profile! I am an enthusiastic engineering student currently pursuing a **MBA + B.Tech in Computer Engineering** at SVKM’s NMIMS Mukesh Patel School of Technology Management & Engineering. I have a passion for developing innovative solutions and exploring new technologies.
+Welcome to my profile! I am an enthusiastic engineering student currently pursuing a **B.Tech in Computer Engineering + MBA in Technology Management** at SVKM’s NMIMS Mukesh Patel School of Technology Management & Engineering. I have a passion for developing innovative solutions and exploring new technologies.
 
 ---
 
 ## 📚 About Me
 
-I am proficient in creating diverse academic projects, including mobile applications and XR technologies. I am eager to embrace challenges that drive learning and growth. Currently, I am seeking a **summer technical internship** to gain hands-on industry experience and contribute to impactful projects.
+I am proficient in creating diverse academic projects, including mobile applications and XR technologies. I am eager to embrace challenges that drive learning and growth. Currently, I am seeking a **summer internship** to gain hands-on industry experience and contribute to impactful projects.
 
 ---
 
@@ -14,7 +14,7 @@ I am proficient in creating diverse academic projects, including mobile applicat
 
 - **MBA + B.Tech in Computer Engineering**  
   SVKM’s NMIMS Mukesh Patel School of Technology Management & Engineering (2022 - 2027)  
-  CGPA: 3.06/4 (Current)
+  CGPA: 3.15/4 (Current)
 
 ## 🛠️ Skills
 
@@ -29,11 +29,12 @@ I am proficient in creating diverse academic projects, including mobile applicat
 
 ## 💼 Work Experience
 
-### ACMEGRADE - Android App Development Intern  
-*June 2023 - July 2023*  
-- Developed and debugged Android applications using Kotlin/Java.
-- Integrated APIs and third-party libraries following the MVVM architecture pattern.
-- Collaborated with teams to deliver user-centric mobile solutions.
+### BEING DIGITAL - Shopify Development Intern  
+*MAY 2025 - July 2025*  
+-Built and customized Shopify e-commerce stores for home décor, footwear, and luxury watch domains.
+-Implemented custom Liquid sections, metafields, and policy pages to enhance store functionality and user experience.
+-Contributed to content management by uploading products, structuring collections, and creating blogs for a client project.
+-Explored logistics integration using ShipTurtle and ensured responsive design through manual QA across devices.
 
 ---
 
